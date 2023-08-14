@@ -1,0 +1,17 @@
+.cabecalho {
+    margin-bottom: 24px;
+}
+
+.textoCabecalho {
+    font-size: 24px;
+    padding: 16px;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 100px;
+}
+
+.textoLinhas {
+    font-size: 18px;
+    padding: 8px;
+    margin-top: 12px;
+    text-align: center;
+}
